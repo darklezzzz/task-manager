@@ -1,2 +1,3 @@
 task-manager list
 task-manager list --assignee Анна --priority high --status todo
+task-manager statistics
