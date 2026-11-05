@@ -45,3 +45,7 @@ Git-доказательства: `git log --graph --oneline --all`, `git branch
 ## Ограничения
 
 Нет сетевой совместной работы, авторизации и уведомлений. Дата — плановая дата задачи, формат YYYY-MM-DD.
+
+## GitHub
+
+[darklezzzz/task-manager](https://github.com/darklezzzz/task-manager).
