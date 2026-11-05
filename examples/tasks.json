@@ -1,0 +1,37 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Тестирование",
+      "assignee": "Анна",
+      "priority": "high",
+      "status": "done",
+      "date": "2026-11-05"
+    },
+    {
+      "id": 2,
+      "title": "Документация",
+      "assignee": "Борис",
+      "priority": "normal",
+      "status": "in_progress",
+      "date": "2026-11-05"
+    }
+  ],
+  "filtered": [
+    {
+      "id": 1,
+      "title": "Тестирование",
+      "assignee": "Анна",
+      "priority": "high",
+      "status": "done",
+      "date": "2026-11-05"
+    }
+  ],
+  "statistics": {
+    "todo": 0,
+    "in_progress": 1,
+    "done": 1,
+    "total": 2,
+    "completion_percent": 50.0
+  }
+}
